@@ -1,0 +1,42 @@
+.logo{
+    height: 100px;
+}
+.header{
+    display: flex;
+    gap: 800px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+}
+.items{
+    display: flex;
+}
+.names{
+    display: flex;
+    gap: 50px;
+}
+.food{
+    display: flex;
+    gap: 20px;
+    height: 200px;
+}
+.yy{
+    height: 500px;
+}
+.vv{
+    height: 500px;
+}
+.m.n.o.p.q.r.s.t.u.v.w.x.y.z{
+    height: 100px;
+}
+.fotter{
+    padding: 100px;
+    display: flex;
+    gap: 50px;
+    background-color: burlywood;
+}
+.zz{
+    height: 500px;
+}

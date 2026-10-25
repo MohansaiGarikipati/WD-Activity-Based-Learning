@@ -1,0 +1,43 @@
+.a{
+    height: 50px;
+}
+.header{
+    display: flex;
+    gap: 400px;
+    background-image: url(bg1.webp);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    cursor: pointer;
+}
+.content{
+    padding: 20px;
+}
+.name{
+    background-color: cornflowerblue;
+    gap: 50px;
+}
+.pr{
+    background-image: url(pr.webp);
+    height: 500px;
+    padding: 30px;
+}
+.table{
+    background-image: url(table.webp);
+    height: 1500px;
+    width: 1600px;
+    padding-top: 100px;
+}
+.fotter{
+    display: flex;
+    gap: 30px;
+    background-color: brown;
+}
+*{
+    margin: 0px;
+}
